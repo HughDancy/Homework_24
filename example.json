@@ -1,0 +1,11 @@
+{
+  "cards":[
+      {
+      "name":"Archangel Avacyn",
+      "manaCost":"{3}{W}{W}",
+      "cmc":5,
+      "type":"Legendary Creature — Angel",
+      "rarity":"Mythic Rare"
+    }
+  ]
+}
